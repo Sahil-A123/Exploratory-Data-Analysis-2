@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-2
+I am currently learning and practicing (EDA) to understand datasets more effectively. Through techniques like data visualization, statistical summaries, and pattern discovery, I aim to uncover meaningful insights and relationships within the data. This practice helps me build a strong foundation for data-driven and decision-making. 
